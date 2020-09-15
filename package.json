@@ -35,7 +35,6 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "eslint-config-ajay": "^1.0.6",
     "make-string": "^1.0.3"
   },
   "devDependencies": {
